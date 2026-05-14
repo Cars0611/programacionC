@@ -11,6 +11,6 @@ int main(){
     cout<<"Tamaño de double: "<<sizeof(double)<<" bytes \n";
     cout<<"Tamaño de bool: "<<sizeof(bool)<<" bytes \n";
     
-    /*para seguir indagando sobre los demas tipos, 
+    /*para seguir indagando sobre los demás tipos, 
     te invito a que complementes el presente codigo*/
 }
