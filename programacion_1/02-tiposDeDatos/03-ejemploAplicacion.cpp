@@ -41,7 +41,7 @@ int main(){
 
     estadoLaboral=false;
     
-    cout<<"Estado Laboral "<<estadoLaboral<<endl;
+    cout<<"Estado Laboral "<<boolalpha<<estadoLaboral<<endl;
     cout<<"Esta es tu frase relevante: \n"<<fraseRelevante<<endl;
 
     return 0;
